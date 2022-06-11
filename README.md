@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Teodor Madjarov
+- 👀 I’m interested in coding, streaming and as you may know ENJOYING LIFE.
+- 🌱 I’m currently learning CPP, HTML, CSS andd a little bit of Python.
+- 💞️ I’m looking to collaborate on school projects.
+- 📫 You can reach me DM-ing me on my adress: tsmadzharov21@codingburgas.bg
