@@ -4,7 +4,7 @@ My name is Teodor, I am born 2007, I live in Burgas. I study at the Vocational s
 
 Skills: JSON / CPP / CSS / HTML / PYTHON
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?tsmazharov21=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
