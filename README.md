@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/x0sn0s8ayjHscv7xII.webp" width="300"/>
   <h1>Hi, I'm Theodore</h1>
+  <h2>My main coding languages</h2>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -18,7 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <div id="header" align="center">
-### :fire: My Stats :
+###:fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=tsmadzharov21
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?tsmadzharov21)](https://github.com/anuraghazra/github-readme-stats)
 </div>
