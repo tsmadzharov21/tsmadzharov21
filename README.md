@@ -26,9 +26,11 @@
 </div>
 
 
-<div id="header" align="center">
+<div id="header">
   <h2>
+    <center>
   About
+      </center>
 </h2>
   <h3>
  :📚: Studying at VSCPI.
