@@ -22,19 +22,21 @@
 <h2>
   My Stats
 </h2>
-https://github-readme-streak-stats.herokuapp.com/?user=tsmadzharov21
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=tsmadzharov21" alt="GitHub Streak" /></a>
 </div>
 
 
-<div id="header">
+<div id="header" align="center">
   <h2>
   About
 </h2>
-- :📚: I’m studying at VPCPI.
-
-- :🌱: Exploring Technical Content Writing.
-
-- :🤫: In my free time, I mog.
+  <h3>
+- :📚: Studying at VSCPI.
 
 - :📧: How to reach me: tsmadzharov21.
+
+- :📧: How to reach me: tsmadzharov21.
+
+- :📧: How to reach me: tsmadzharov21.
+- </h3>
   </div>
