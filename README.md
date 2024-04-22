@@ -34,8 +34,11 @@
 </h2>
   <h3>
  :📚: Studying at VSCPI.
+    <br>
  :💻: Coding with a PC.
+    <br>
  :✝: Chirst is LORD.
+    <br>
  :📧: How to reach me: tsmadzharov21@codingburgas.bg.
  </h3>
   </div>
