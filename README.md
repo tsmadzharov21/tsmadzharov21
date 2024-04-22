@@ -27,7 +27,10 @@ https://github-readme-streak-stats.herokuapp.com/?user=tsmadzharov21
 
 
 <div id="header">
-- 📚 I’mstudying at VPCPI.
+  <h2>
+  About
+</h2>
+- :📚: I’m studying at VPCPI.
 
 - :🌱: Exploring Technical Content Writing.
 
