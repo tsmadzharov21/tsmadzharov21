@@ -31,12 +31,12 @@
   About
 </h2>
   <h3>
-- :📚: Studying at VSCPI.
+ :📚: Studying at VSCPI.
 
-- :📧: How to reach me: tsmadzharov21.
+ :💻: Coding with a PC.
 
-- :📧: How to reach me: tsmadzharov21.
+ :✝: Chirst is LORD.
 
-- :📧: How to reach me: tsmadzharov21.
+ :📧: How to reach me: tsmadzharov21.
 - </h3>
   </div>
