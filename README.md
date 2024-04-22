@@ -19,18 +19,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <div id="header" align="center">
-###:fire: My Stats :
+<h2>
+  My Stats
+</h2>
 https://github-readme-streak-stats.herokuapp.com/?user=tsmadzharov21
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?tsmadzharov21)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
 <div id="header">
-- :telescope: I’mstudying at VPCPI.
+- 📚 I’mstudying at VPCPI.
 
-- :seedling: Exploring Technical Content Writing.
+- :🌱: Exploring Technical Content Writing.
 
-- :zap: In my free time, I mog.
+- :🤫: In my free time, I mog.
 
-- :How to reach me: idk.
+- :📧: How to reach me: tsmadzharov21.
   </div>
