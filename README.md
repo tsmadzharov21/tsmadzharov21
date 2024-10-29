@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/x0sn0s8ayjHscv7xII.webp" width="300"/>
-   <img src="https://tenor.com/view/freakbob-gif-10330201476953930723" width="300"/>
+   <img src="https://media1.tenor.com/m/j1w_gvQN--MAAAAC/freakbob.gif" width="300"/>
   <h1>Hi, I'm Teodor</h1>
   <h2>My main coding languages</h2>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
