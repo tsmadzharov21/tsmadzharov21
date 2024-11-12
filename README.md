@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/-N1-dtFf_8UAAAAC/travis-travis-scott.gif" width="300"/>
+  <img src="https://media1.tenor.com/m/kRe6aTyt-kYAAAAd/donald-trump-trump.gif" width="300"/>
   <h1>Hi, I'm Teodor</h1>
   <h2>My main coding languages</h2>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
